@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Rafael-Lee1/Icons/blob/55509b22d2b8b16531500db471346f1e84f89b26/Projeto_Site_Financ.png">
+</p>
 
 <h1 align="center"> Site para Financeiras </h1>
 
